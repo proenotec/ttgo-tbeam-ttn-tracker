@@ -7,8 +7,8 @@ Credentials file
 #pragma once
 
 // Only one of these settings must be defined
-#define USE_ABP
-//#define USE_OTAA
+//#define USE_ABP
+#define USE_OTAA
 
 #ifdef USE_ABP
 
