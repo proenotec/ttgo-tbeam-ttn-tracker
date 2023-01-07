@@ -10,3 +10,4 @@ credentials-private.h
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+main/credentials.h
